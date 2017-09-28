@@ -1,0 +1,64 @@
+header {
+  font-family: Impact, fantasy;
+  font-size: 2em;
+  color: LightSeaGreen;
+  font-weight: bold;
+  text-align: center;
+  
+}
+
+h4 {
+  color: LightSeaGreen;
+  font-size: 2em;
+}
+
+h3 {
+  font-family: Impact, fantasy;
+  color: LightSeaGreen;
+  text-align: center;
+  font-size: 3em;
+}
+
+.main-title {
+  background-color: Gainsboro;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+section {
+ float: right;
+ Padding-left: 35em;
+ padding-bottom: 2em; 
+ }
+
+article {
+ border: 10px dotted;
+ background-color: LightCoral;
+ margin-right: 20em; 
+}
+
+footer {
+  font-family: Impact, fantasy;
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  font-family: Impact, fantasy;
+  color: LightSeaGreen;
+  text-align: center;
+  font-size: 1em;
+}
+
+
+
+ 
+ 
+
+ 
+
+
+  
+
+
