@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+    <head>
+<title>github</title>
+    </head>
+
+<body>
+    <h1>first github repository</h1>
+    
+    <p>This is the last placeholder</P>
+    
+</body>
+
+</html> 
